@@ -1,0 +1,56 @@
+{
+  "header": {
+    "Role": "Software Engineer",
+    "Location": "Portland, Maine"
+  },
+  "home": {
+    "Tag": "Bem-vindo!",
+    "Greetings": "Meu nome é ",
+    "Role": "Especializo-me na criação de aplicações orientadas a dados que são escaláveis, seguras e eficientes. Seja na orquestração de contêineres com Kubernetes, utilizando OCI para soluções baseadas em nuvem, otimizando bases de dados Oracle, ou desenvolvendo back-ends robustos em Java/Kotlin e Spring Boot, minhas habilidades são aprimoradas para arquiteturas de alto desempenho e multi-camadas. Comprometido com a excelência operacional em todos os projetos"
+  },
+  "about": {
+    "Tag": "Perfil Profissional",
+    "c1": "Com mais de uma década de experiência em desenvolvimento e integração de sistemas, especializei-me em soluções robustas e escaláveis, especialmente no universo Oracle, que vão desde banco de dados até ERPs e ferramentas avançadas.",
+    "c2": "Dominando técnicas de DevOps, tenho expertise em dockerizar aplicações e gerenciá-las através do Kubernetes, garantindo alta disponibilidade e eficiência. Minha experiência com microserviços, em especial utilizando Spring Boot, destaca-se pela capacidade de entrega contínua e adaptabilidade.",
+    "c3": "Com um histórico sólido, eu me especializo em criar soluções complexas e escaláveis usando práticas avançadas de DevOps. Proficiente em comunicação, gestão de mudanças e suporte fundamental, garanto sucesso mesmo em projetos dinâmicos. Incorporo adaptabilidade e inovação essenciais no cenário tecnológico atual."
+
+  },
+  "skills": {
+    "Tag": "Competências Técnicas",
+    "Title": "Minhas Especialidades Incluem:",
+    "l1": "Desenvolvimento e otimização de soluções em banco de dados Oracle",
+    "l2": "Criação de aplicações cloud-native com foco em escalabilidade e resiliência",
+    "l3": "Implantação e manutenção de práticas DevOps avançadas",
+    "l4": "Revisão rigorosa de código garantindo padrões de qualidade e best practices",
+    "l5": "Integração contínua e testes automatizados para aplicações de alto desempenho",
+    "l6": "Gestão proativa de mudanças e fornecimento de suporte técnico especializado",
+    "l7": "Especialista em soluções Oracle, incluindo Oracle R12, Oracle Retail e Oracle ERP Cloud",
+    "oracle": "Se você está trabalhando em um projeto que exige uma manipulação eficiente de dados no banco de dados, o Oracle PL/SQL é uma escolha sólida. Desde pequenos projetos que precisam de consultas otimizadas até sistemas de grande escala com muitos acessos simultâneos, o PL/SQL oferece a capacidade de escrever lógica diretamente no banco de dados, melhorando o desempenho e a segurança das operações.",
+    "docker": "Independentemente do tamanho do projeto, Docker é uma ferramenta indispensável. Para pequenos projetos, ele permite empacotar o ambiente de desenvolvimento, garantindo que todos os membros da equipe estejam na mesma página. Em projetos maiores, Docker simplifica a implantação consistente, desde servidores locais até ambientes de produção em larga escala, garantindo que as dependências estejam corretas e que tudo funcione como esperado.",
+    "kubernetes": "Quando seu projeto cresce e a complexidade da infraestrutura aumenta, o Kubernetes assume o palco. Ele oferece automação robusta para implantar, gerenciar e dimensionar contêineres em larga escala. Desde pequenas aplicações distribuídas até sistemas de microserviços complexos, o Kubernetes lida com a orquestração, escalabilidade e resiliência de forma eficiente.",
+    "spring": "O Spring é uma escolha inteligente para projetos de qualquer tamanho. Em pequenos projetos, seus recursos de injeção de dependência e desenvolvimento ágil aceleram o processo de criação. À medida que o projeto cresce, o Spring ajuda a manter a estrutura organizada e modular, facilitando a integração de novos recursos. Para projetos de grande escala, o Spring oferece segurança sólida, integração de banco de dados e suporte a serviços web.",
+    "java": "Java é a linguagem confiável que se adapta a todas as escalas de projetos. Em pequenos projetos, sua sintaxe clara e vasta biblioteca de classes aceleram o desenvolvimento. À medida que o projeto cresce, a portabilidade do Java garante que o código funcione em várias plataformas. Para projetos complexos, a robustez do ecossistema Java é valiosa, com frameworks, ferramentas e uma comunidade ativa.",
+    "react": "Desde pequenos aplicativos até interfaces de usuário complexas, o React brilha. Para projetos menores, ele oferece interatividade e responsividade sem complicação. Conforme o projeto evolui, os componentes reutilizáveis do React economizam tempo de desenvolvimento e mantêm a consistência visual. Para interfaces de usuário em grande escala, o React facilita o gerenciamento de estados complexos e a atualização eficiente da interface.",
+    "camel": "Seja qual for o tamanho do projeto, o Apache Camel é uma escolha sábia para integração. Em projetos menores, ele simplifica a comunicação entre diferentes partes do sistema. À medida que o projeto cresce, o Camel permite criar rotas de integração claras e escaláveis, garantindo a transferência de dados confiável em sistemas complexos de grande escala.",
+    "oci": "O Oracle Cloud Integration (OCI) se destaca como uma plataforma de integração confiável e de alto nível, respaldada pela experiência e conhecimento da Oracle. Com suas soluções sólidas e comprovadas, ampla gama de conectores pré-configurados e capacidade de integração híbrida, o OCI oferece uma abordagem confiável para otimizar a eficiência operacional e aprimorar o fluxo de dados em projetos de grande escala."
+  },
+  "projects": {
+    "Tag": "Projects",
+    "Title": "Recent Projects",
+    "p2009": "ETL pipeline for a big company in the Financial sector. The project involved designing and implementing a robust ETL pipeline to process and analyze large volumes of invoices (~1M/month). The pipeline was built using Java and Oracle PL/SQL, ensuring efficient data transfer and processing.",
+    "p2011": "Calculo de imposto para o Brasil. Utilizei minha expertise no projeto anterior, tive a oportunidade de desenvolver um sistema de cálculo de impostos para o Brasil. O sistema foi construido em Oracle PL/SQL.",
+    "p2014": "Desenvolvimento e manutencao diversas em Obrigacoes Fiscais, como SPED, EFD, ECD, ECF, DCTF, DIRF, entre outras. Utilizei Oracle PL/SQL, JavaScript e Visual Basic.",
+    "p2018": "Desenvolvimento de integracao fiscal para multinacionais no Brasil com ERPs Oracle, como Oracle EBS, Oracle Retail e Oracle ERP Cloud. A integracao foi feita utilizando Oracle PL/SQL e, para alguns cenarios, ferramentas Oracle como BPEL e ODI.",
+    "p2020": "Migracao de sistemas legados para a nuvem. O projeto envolveu a migracao de sistemas legados para a nuvem, utilizando Oracle Cloud Infrastructure (OCI). A migracao foi feita com uma equipe de 30 funcionarios onde tive a oportunidade de ser Team Leader.",
+    "p2022": "Criacao de Integracao Oracle ERP Cloud 100% Cloud, utilizando Oracle Infrastructure Cloud e PL/SQL. O projeto envolveu a criacao de uma integracao entre Oracle ERP Cloud e um sistema legado."
+  },
+  "contact": {
+    "Tag": "Entre em Contato",
+    "ContactPhrase": "Estou pronto para colaborar em seu próximo projeto. Vamos criar algo incrível juntos!",
+    "Label1": "Seu nome",
+    "Label2": "E-Mail",
+    "Label3": "Assunto",
+    "TextAreaPlaceholder": "Compartilhe seus desafios e ideias...",
+    "ButtonText": "Entrar em Contato"
+  }
+}
